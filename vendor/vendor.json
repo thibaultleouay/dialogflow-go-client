@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yqF125xVSkmfLpIVGrLlfE05IUk=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "1e59b77b52bf8e4b449a57e6f79f21226d571845",
+			"revisionTime": "2017-11-13T18:07:20Z"
+		},
+		{
+			"checksumSHA1": "XNHQiRltA7NQJV0RvUroY+cf+zg=",
+			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"revision": "1e59b77b52bf8e4b449a57e6f79f21226d571845",
+			"revisionTime": "2017-11-13T18:07:20Z"
+		},
+		{
+			"checksumSHA1": "lgDl42/LS0vKM8FtsRRHL1NynJ4=",
+			"path": "github.com/googleapis/googleapis/google/api",
+			"revision": "ff51363884b7729ecf22481e0e9e136ea980d29e",
+			"revisionTime": "2018-01-06T02:04:49Z"
+		},
+		{
+			"checksumSHA1": "T2PeIg0e4QeqLRvnu9BtzU2SE2U=",
+			"path": "github.com/googleapis/googleapis/google/longrunning",
+			"revision": "ff51363884b7729ecf22481e0e9e136ea980d29e",
+			"revisionTime": "2018-01-06T02:04:49Z"
+		},
+		{
+			"checksumSHA1": "EQFifbkQPIfL/D34ujL7HW4dJOI=",
+			"path": "github.com/googleapis/googleapis/google/rpc",
+			"revision": "ff51363884b7729ecf22481e0e9e136ea980d29e",
+			"revisionTime": "2018-01-06T02:04:49Z"
+		},
+		{
+			"checksumSHA1": "HvUo00apJCw2YrZn4wPujW0Bpxo=",
+			"path": "github.com/googleapis/googleapis/google/type",
+			"revision": "ff51363884b7729ecf22481e0e9e136ea980d29e",
+			"revisionTime": "2018-01-06T02:04:49Z"
+		},
+		{
+			"checksumSHA1": "B22iMMY2vi1Q9kseWb/ZznpW8lQ=",
+			"path": "google.golang.org/genproto/googleapis/api/annotations",
+			"revision": "a8101f21cf983e773d0c1133ebc5424792003214",
+			"revisionTime": "2017-12-12T23:19:43Z"
+		}
+	],
+	"rootPath": "github.com/thibaultleouay/dialogflow-go-client"
+}
